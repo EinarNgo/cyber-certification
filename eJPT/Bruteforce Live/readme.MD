@@ -44,3 +44,7 @@ Find the password of user "root" using the ssh_login Metasploit module. Use user
 ### Use metasploit to retrieve password for root
 Setup the metasploit with variables in metasploit.
 ![metasploit](metasploit.png)
+The password for root is attack. The tools also provide an SSH shell.
+![shell](shell.png)
+With the information we can ssh in and get root.
+![root](root.png)
